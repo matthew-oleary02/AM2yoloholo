@@ -1,0 +1,1 @@
+C:\Users\chris\YoloHolo-main\YoloHolo\_build\Ender6YoloHoloTest\Ender6YoloHoloTest.vcxproj;arm64

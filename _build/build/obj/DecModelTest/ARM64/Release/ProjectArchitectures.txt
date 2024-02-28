@@ -1,0 +1,1 @@
+C:\Users\chris\YoloHolo-main\YoloHolo\_build\DecModelTest\DecModelTest.vcxproj;arm64

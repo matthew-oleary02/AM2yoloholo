@@ -1,0 +1,23 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 17.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\ARM64\link.exe
+  	Msvc Compiler Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\bin\HostX64\ARM64\cl.exe
+  
+  	Output directory: C:\Users\chris\YoloHolo-main\YoloHolo\_build\build\bin\ARM64\Release
+  	Cache directory: C:\Users\chris\YoloHolo-main\YoloHolo\_build\build\obj\il2cppOutputProject\ARM64\Release
+  Il2CppMetadataRegistration.c
+  Il2CppGenericMethodDefinitions.c
+  Il2CppGenericInstDefinitions.c
+  Assembly-CSharp.cpp
+  Il2CppMetadataUsage.c
+  ObjectFiles: 661 of which compiled: 5
+  	Time Compile: 1973 milliseconds Il2CppMetadataUsage.c
+  	Time Compile: 1069 milliseconds Assembly-CSharp.cpp
+  	Time Compile: 974 milliseconds Il2CppGenericInstDefinitions.c
+  	Time Compile: 951 milliseconds Il2CppGenericMethodDefinitions.c
+  	Time Compile: 765 milliseconds Il2CppMetadataRegistration.c
+  Total compilation time: 5229 milliseconds.
+  Creating library C:\Users\chris\YoloHolo-main\YoloHolo\_build\build\obj\il2cppOutputProject\ARM64\Release\linkresult_8C2AEE06A243DA5476F23B094F88D50B\GameAssembly.lib and object C:\Users\chris\YoloHolo-main\YoloHolo\_build\build\obj\il2cppOutputProject\ARM64\Release\linkresult_8C2AEE06A243DA5476F23B094F88D50B\GameAssembly.exp
+  Total link time: 34120 milliseconds.
+  Cleaned up 6 object files.
